@@ -15,21 +15,21 @@ TOPINIOMGC_exer1_wx1L
 # Documentation
 - **Screenhots of the Mobile App**<br/><br/>
     ### _First Run Preview_
-    ![preview1](./images/preview1.png) <br/>
+    ![preview1](images/preview1.png) <br/>
     > In the app's first run, we can already see a list of the author's hobbies on the main page. The user can also scroll down the app to see more hobbies. There are precisely 12 hobbies that the user can select.
-    <br/>
+
     ### _Secondary App Page_
-    ![preview2](./images/preview2.png) <br/>
+    ![preview2](images/preview2.png) <br/>
     > When the user taps the "List" icon on the main page, it takes the user to the secondary app page. The page includes the author's name, student id, and more descriptions. The secondary page also acts as a container for the selected hobbies from the main page. A list of hobbies will only appear if the user has selected either a single or multiple hobbies from the main page.
-    <br/>
+
     ### _Selectable Hobbies_
-    ![preview3](./images/preview3.png) <br/>
+    ![preview3](images/preview3.png) <br/>
     > The user can select individual hobbies from the main page. The user can choose a hobby by either tapping the heart icon or the row of the hobby itself. The trailing heart icons will turn red if a hobby is selected from the main page.
-    <br/>
+
     ### _Preview of Selected Hobbies on Secondary Page_
-    ![preview4](./images/preview4.png) <br/>
+    ![preview4](images/preview4.png) <br/>
     > Every time the user has selected a hobby, the scrollable list of hobbies from the secondary page will also show the updated list of the author's hobbies. If the user unselects a hobby from the main page, the secondary page will also update its array of hobbies and only show the selected ones.
-    <br/>
+
 
 
 - **What did you add to the code?**
