@@ -58,7 +58,7 @@ TOPINIOMGC_exer1_wx1L
     > There were a lot of challenges met while doing the exercise, such as insufficient disk space and large resource consumption of the Android Emulator.
 - **Happy paths and Unhappy paths encountered.**
     > **_Happy Path:_** Tap single or multiple hobbies -> successfully shown in secondary page
-    </br>
+    
     > **_Unhappy Path:_** _None_
 
 :smile_cat: contact your lab instructor if you have any concerns, inquiries or problems in your exercise.
